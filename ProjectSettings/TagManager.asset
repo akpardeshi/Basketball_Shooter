@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Holder
+  - Table
+  - Ram
+  - Ball
+  - Net
+  - Ground
+  - Button
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Dot
+    uniqueID: 155526509
+    locked: 0
+  - name: Holder
+    uniqueID: 2527488183
+    locked: 0
+  - name: Table
+    uniqueID: 2534750527
+    locked: 0
+  - name: Ram
+    uniqueID: 4269256203
+    locked: 0
+  - name: Ball
+    uniqueID: 4222548167
+    locked: 0
